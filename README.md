@@ -16,7 +16,7 @@ I enjoy working across the full stack — from designing user interfaces and bui
 
 * Java
 * JavaScript
-* Python
+* C
 * SQL
 
 ### Frontend
@@ -35,8 +35,7 @@ I enjoy working across the full stack — from designing user interfaces and bui
 
 ### Databases
 
-* MySQL
-* MongoDB
+* MySQL, Oracle, TiDB Tool for Deploy.
 
 ### Tools & Platforms
 
